@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saju616" alt="saju616" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saju_sajjad7" target="blank"><img src="https://img.shields.io/twitter/follow/saju_sajjad7?logo=twitter&style=for-the-badge" alt="saju_sajjad7" /></a> </p>
-
 - 🔭 I’m currently working on [Enhancing the FittingRoom e-commerce platform to improve user experience, search accuracy, and overall performance using React, React native, Next.js, and Algolia.](https://fittingroom.store)
 
 - 🌱 I’m currently learning **Exploring IoT devices for tracking soil moisture and other environmental conditions, and diving into machine learning applications in agriculture to optimize farming practices.**
@@ -19,8 +17,6 @@
 
 - 📫 How to reach me **saju616@gmail.com**
 
-- 📄 Know about my experiences [Please check my linkedin](Please check my linkedin)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saju_sajjad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saju_sajjad7" height="30" width="40" /></a>
@@ -32,9 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sajusajjad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sajusajjad" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saju616&show_icons=true&locale=en&layout=compact" alt="saju616" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saju616&show_icons=true&locale=en" alt="saju616" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saju616&" alt="saju616" /></p>
